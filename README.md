@@ -4,7 +4,9 @@ A TPS Multiplayer Shooting Game. All Resources are obtained from Epic Market Pla
 
 You can play with others via Steam!
 
-Demo: [Baidu Netdisk](https://pan.baidu.com/s/1k2mVJLTNMK5TOF8hjGQN2Q) code: d3bt
+演示视频/Demo Video: [Baidu Netdisk](https://pan.baidu.com/s/1k2mVJLTNMK5TOF8hjGQN2Q) code: d3bt
+
+Packaged Game can be downloaded from Release
 
 ## Control
 + `WASD` for move
