@@ -18,6 +18,7 @@ You can play with others via Steam!
 
 ## Features
 + Multiplayer Thirdperson Shooting
++ Customized Multiplayer Plugin
 + Animations, including turning in-place, aiming offset, hand IK...
 + Weapon System, including Projectile, HitScan, and Exploding Weapon. The projectile trace may spread and there can also be feedback after shooting.
 + HUDs, UIs, CrossHairs...
