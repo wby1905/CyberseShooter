@@ -7,6 +7,7 @@ You can play with others via Steam!
 演示视频/Demo Video: [Baidu Netdisk](https://pan.baidu.com/s/1k2mVJLTNMK5TOF8hjGQN2Q) code: d3bt
 
 Packaged Game can be downloaded from Release
+For tester: use `ServerTravel CyberseMap` cmd for solo test.
 
 ## Control
 + `WASD` for move
@@ -17,7 +18,7 @@ Packaged Game can be downloaded from Release
 + `right mouse button` to aim
 + `R` to reload
 + `G` to throw grenade
-+ `Q` to open menu
++ `Q` to open menu and exit game
 + `Enter` open/close chat
 
 ## Features
