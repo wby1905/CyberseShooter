@@ -4,6 +4,8 @@ A TPS Multiplayer Shooting Game. All Resources are obtained from Epic Market Pla
 
 You can play with others via Steam!
 
+Demo: [Baidu Netdisk](https://pan.baidu.com/s/1k2mVJLTNMK5TOF8hjGQN2Q) code: d3bt
+
 ## Control
 + `WASD` for move
 + `space bar` to jump
